@@ -1,0 +1,53 @@
+/* 
+  Localizable.strings
+  Keep_up
+
+  Created by Sycooo on 2016/11/18.
+  Copyright © 2016年 Sycooo. All rights reserved.
+*/
+
+"text" = "人生的起点是无可选择的，而起点和终点之间却充满着无数个可以利用的机会。对于输在起点的人，锲而不舍才是他们的信条，只要不懈地努力，就会赢在终点。";
+
+"font" = "Verdana-Bold";
+
+
+
+"jumping" = "开并腿跳";
+
+"site" = "直角坐墙";
+
+"push" = "俯卧撑";
+
+"abdominal" = "仰卧起坐";
+
+"step" = "上下椅子";
+
+"squats" = "蹲坐";
+
+"planks" = "平板支撑";
+
+"lunges" = "弓箭步";
+
+"triceps" = "后俯卧撑";
+
+
+
+
+"description1" = "站姿跳跃，双脚往外张开约1.5个肩膀宽，双手往头顶方向击掌，注意手肘尽量伸直在头部两侧夹紧，可同时使身体往上延伸。Step2 再跳一次后双脚并拢，双手拍大腿两侧，注意身体仍要往头顶方向延伸，尽量不要驼背。重复动作1至2共约30秒。";
+
+"description2" = "后背靠墙挺直，双腿分开肩宽，臀部向下直到大小腿呈90度角，保持这个姿势";
+
+"description3" = "";
+
+"description4" = "";
+
+"description5" = "";
+
+"description6" = "";
+
+"description7" = "";
+
+"description8" = "";
+
+"description9" = "";
+

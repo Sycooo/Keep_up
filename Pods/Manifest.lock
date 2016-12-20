@@ -1,0 +1,35 @@
+PODS:
+  - DaiExpandCollectionView (0.0.5)
+  - iCarousel (1.8.3)
+  - IQKeyboardManager (4.0.7)
+  - JTCalendar (2.1.9)
+  - Masonry (1.0.2)
+  - pop (1.0.9)
+  - SDCycleScrollView (1.65):
+    - SDWebImage (~> 3.7)
+  - SDWebImage (3.8.2):
+    - SDWebImage/Core (= 3.8.2)
+  - SDWebImage/Core (3.8.2)
+
+DEPENDENCIES:
+  - DaiExpandCollectionView
+  - iCarousel
+  - IQKeyboardManager
+  - JTCalendar
+  - Masonry
+  - pop
+  - SDCycleScrollView
+
+SPEC CHECKSUMS:
+  DaiExpandCollectionView: c50a7566e065d7e8d1f725964455ffc35464666d
+  iCarousel: d782f635afac190c49bb8ee455882284cff8b85f
+  IQKeyboardManager: 69002bb4fea60596b710e57d426abc00e5063630
+  JTCalendar: beb2f4c1b639bf6880f680b4858227acf83a049c
+  Masonry: 7c429b56da9d4ee0bbb3ed77a5ea710d6a5df39e
+  pop: f667631a5108a2e60d9e8797c9b32ddaf2080bce
+  SDCycleScrollView: f72904c77698a7f93a41bcbbc2d78b073bf7326c
+  SDWebImage: 098e97e6176540799c27e804c96653ee0833d13c
+
+PODFILE CHECKSUM: 932a9a91496eb402ee7eb85ff13e760ac7b04f7f
+
+COCOAPODS: 1.1.1

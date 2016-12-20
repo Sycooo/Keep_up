@@ -1,0 +1,10 @@
+target 'Keep_up' do
+platform:ios,8.0
+pod 'IQKeyboardManager'
+pod 'DaiExpandCollectionView'
+pod 'JTCalendar'
+pod 'iCarousel'
+pod 'Masonry'
+pod 'pop'
+pod 'SDCycleScrollView'
+end

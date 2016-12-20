@@ -1,0 +1,78 @@
+//
+//  KeepUp.pch
+//  Keep_up
+//
+//  Created by Sycooo on 2016/11/18.
+//  Copyright © 2016年 Sycooo. All rights reserved.
+//
+
+#ifndef KeepUp_pch
+#define KeepUp_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* KeepUp_pch */
+
+
+#pragma mark *** Color
+
+#define MAIN_COLOR [UIColor colorWithHexString:@"e3fdfd"]
+
+#define PLAN_COLOR [UIColor colorWithHexString:@"fcd59b"]
+
+
+//f7f0e9,,faf4e1,f4f7ed,f2ffdf,fdfcfc
+
+#define CALENDAR_COLOR [UIColor colorWithHexString:@"f7f0e9"]
+
+#define LIGHT_TEXT_COLOR [UIColor colorWithHexString:@"393e46"]
+
+#define TEXT_COLOR [UIColor colorWithHexString:@"303a52"]
+
+#define WHITE [UIColor colorWithHexString:@"ffffe7"]
+
+#define LINE [UIColor colorWithHexString:@"6c7a89"]
+
+
+#define CELL_COLOR_1 [UIColor colorWithHexString:@"cbf9da"]
+
+#define CELL_COLOR_2 [UIColor colorWithHexString:@"3dd2cc"]
+
+#define CELL_COLOR_3 [UIColor colorWithHexString:@"71c9ce"]
+
+#define CELL_COLOR_4 [UIColor colorWithHexString:@"95e1d3"]
+
+#define CELL_COLOR_5 [UIColor colorWithHexString:@"ffc468"]
+
+#define CELL_COLOR_6 [UIColor colorWithHexString:@"539ddb"]
+
+#define CELL_COLOR_7 [UIColor colorWithHexString:@"e5a5ff"]
+
+#define CELL_COLOR_8 [UIColor colorWithHexString:@"09c6ab"]
+
+#define CELL_COLOR_9 [UIColor colorWithHexString:@"ef7079"]
+
+#define CELL_COLOR_10 [UIColor colorWithHexString:@"d15385"]
+
+#define CELL_COLOR_11 [UIColor colorWithHexString:@"872341"]
+
+#define CELL_COLOR_12 [UIColor colorWithHexString:@"f35b25"]
+
+#pragma mark *** Size
+
+#define WIDTH [UIScreen mainScreen].bounds.size.width
+
+#define HEIGHT [UIScreen mainScreen].bounds.size.height
+
+#define SCALE ((WIDTH > 375) ? HEIGHT/667 : ((WIDTH == 320) ? HEIGHT/667 : 1))
+
+
+
+
+#define LANGUAGE_ISO [[NSLocale currentLocale] objectForKey: NSLocaleLanguageCode]
+
+
+#import <Masonry.h>
+#import "UIColor+Hex.h"
+
